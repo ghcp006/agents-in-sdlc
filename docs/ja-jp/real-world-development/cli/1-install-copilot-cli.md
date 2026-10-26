@@ -111,7 +111,7 @@ Copilot CLI は [npm][install-npm]、[WinGet][install-winget]、[Homebrew][insta
 - Copilot CLI が作業できるようにディレクトリを信頼する。
 - インストールが正しく動作していることを確認する。
 
-Copilot CLI をインストールできたので、次は Copilot にプロジェクトのコンテキストを与えます。[演習 2 - Copilot CLI のカスタム命令][next-lesson] に進んでください。
+次は最初の小さな変更に取り組み、Copilot CLI を使ってゲーム カードに星評価を表示します。[演習 2: 星評価を追加する][next-lesson] に進んでください。
 
 ## リソース
 
@@ -120,7 +120,7 @@ Copilot CLI をインストールできたので、次は Copilot にプロジ�
 - [Copilot CLI を使う][using-copilot-cli]
 
 [previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-custom-instructions/
+[next-lesson]: ../2-add-star-rating/
 [install-copilot-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [install-npm]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-npm-all-platforms
 [install-winget]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-winget-windows

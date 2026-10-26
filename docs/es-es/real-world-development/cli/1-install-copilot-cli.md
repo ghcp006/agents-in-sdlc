@@ -111,7 +111,7 @@ Ahora que estás en el prompt de Copilot CLI por primera vez, vamos a marcar com
 - confiar en un directorio para que Copilot CLI pueda trabajar con él.
 - verificar que la instalación funciona correctamente.
 
-Ahora que Copilot CLI está instalado, vamos a darle a Copilot algo de contexto del proyecto. Continúa con el [Ejercicio 2 - Instrucciones personalizadas con CLI][next-lesson].
+A continuación, empezarás tu primer cambio concreto y usarás Copilot CLI para mostrar una valoración con estrellas en las tarjetas de juegos. Continúa con el [Ejercicio 2: Añade valoraciones con estrellas][next-lesson].
 
 ## Recursos
 
@@ -120,7 +120,7 @@ Ahora que Copilot CLI está instalado, vamos a darle a Copilot algo de contexto 
 - [Usar Copilot CLI][using-copilot-cli]
 
 [previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-custom-instructions/
+[next-lesson]: ../2-add-star-rating/
 [install-copilot-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [install-npm]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-npm-all-platforms
 [install-winget]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli#installing-with-winget-windows
